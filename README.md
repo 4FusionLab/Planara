@@ -5,7 +5,7 @@
 
 ## About Planara
 
-**Planara** is an upcoming Autodesk Fusion add-in from **4FusionLab**.
+**Planara** is an upcoming **Fusion 360 surface-flattening and unfolding add-in** from **4FusionLab**, intended to turn selected faces of solid CAD bodies into 2D flat layouts.
 
 The project aims to make it easier to flatten surfaces from solid models into 2D layouts for design, prototyping, and fabrication workflows — without rebuilding the original geometry as sheet metal.
 
@@ -14,6 +14,8 @@ The project aims to make it easier to flatten surfaces from solid models into 2D
 🚧 **Early development.** Planara is not yet available for download. Features, supported geometry, and release dates have not been finalized.
 
 Follow this repository for updates.
+
+**Available Fusion 360 add-ins from 4FusionLab:** [Perfora — perforation patterns](https://github.com/4FusionLab/Perfora) · [Selectra — select similar geometry](https://github.com/4FusionLab/Selectra) · [Ejix — solid-body extraction](https://github.com/4FusionLab/Ejix) · [RuEn — Russian-layout shortcuts](https://github.com/4FusionLab/RuEn)
 
 ## A little workshop mythology
 
