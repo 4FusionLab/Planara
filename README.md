@@ -26,3 +26,7 @@ Follow this repository for updates.
 ---
 
 *Planara is an independent project and is not affiliated with or endorsed by Autodesk.*
+
+## License
+
+This project is available under [PolyForm Noncommercial License 1.0.0](LICENSE). Commercial use outside its permitted purposes requires a separate agreement with 4FusionLab. Third-party components remain subject to their own licenses.
